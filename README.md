@@ -1,5 +1,5 @@
-# Single-Atom
-Here's the script of finding the minimum energy of 1 atom in a unit cell
+
+Here's the script of finding the minimum energy of a element
 from ase import Atoms
 import numpy as np
 import matplotlib.pyplot as plt
